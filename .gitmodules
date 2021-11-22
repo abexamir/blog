@@ -1,0 +1,7 @@
+[submodule "abexamirblog/themes/hello-friend-ng"]
+	path = abexamirblog/themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "abexamirblog/public"]
+	path = abexamirblog/public
+	url = git@github.com:abexamir/abexamir.github.io.git
+	branch = main
